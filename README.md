@@ -3,6 +3,14 @@ Magnet2Torrent
 
 This will convert a magnet link into a .torrent file
 
+Dependecies
+-----------
+* python 
+* python-libtorrent
+
+License
+-------
+
 GNU GENERAL PUBLIC LICENSE
 
 Version 3, 29 June 2007
